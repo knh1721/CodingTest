@@ -1,2 +1,3 @@
-# Java
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+📘 프로그래머스 Java 코딩테스트 풀이 기록
+프로그래머스(Java) 문제 풀이를 기록하는 저장소입니다.
+문제 해결력을 높이고, 알고리즘/자료구조 개념을 정립하기 위해 연습 중입니다.
